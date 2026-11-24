@@ -1,0 +1,9 @@
+{
+  "uuid": "asahi-notch-bar@swiftraccoon.github.io",
+  "name": "Asahi Notch Bar",
+  "description": "Fits the top bar to the camera notch on Apple Silicon MacBooks running Asahi Linux. With the appledrm show_notch option enabled, the bar takes the notch's exact height so windows stay below it, and the clock moves next to the system menu. Nothing changes while the notch is hidden, on an external primary display or on other hardware.",
+  "shell-version": ["51"],
+  "url": "https://github.com/swiftraccoon/asahi-notch-bar",
+  "version": 1,
+  "version-name": "1.0.0"
+}

@@ -1,0 +1,6 @@
+{
+  "uuid": "notch-probe@tests.asahi-notch-bar",
+  "name": "Asahi Notch Bar test probe",
+  "description": "Drives a headless GNOME Shell for tests/shell/run.sh. Never install it.",
+  "shell-version": ["51"]
+}

@@ -1,0 +1,5 @@
+# Every optional check is on.
+enable=all
+# The predicate functions are called in conditions on purpose; none of them
+# runs a command whose failure should abort the script.
+disable=SC2310
